@@ -1,0 +1,11 @@
+---
+
+"COURSE": "CAU_AIML_2024"
+"ASSIGNMENT": "ASSIGNMENT_00"
+
+"ID": "20001234"
+"FILES":
+    - "YOUR-PATH-TO/cau-aiml-2024/assignment_00/main.py"    
+"PROBLEMS": 
+    - "PROBLEM_01"
+    
