@@ -1,0 +1,11 @@
+---
+
+"COURSE": "CAU_AIML_2024"
+"ASSIGNMENT": "ASSIGNMENT_01"
+
+"ID": "20001234"
+"FILES":
+    - "YOUR-PATH-TO/assignment_01/regression.py" 
+"PROBLEMS": 
+    - "PROBLEM_01"
+    - "PROBLEM_02"
