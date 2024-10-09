@@ -88,8 +88,8 @@ $$
 
 $$
 \begin{align*}
-  1 &\le x \le 71 \\
-  1 &\le y \le 50
+  1 &\le x &\le 71 \\
+  1 &\le y &\le 50
 \end{align*}
 $$
 
@@ -100,7 +100,7 @@ $$
 
 $$
 \begin{align*}
- 71 &\le x \le 101 \\
- 30 &\le y \le 80
+ 71 &\le x &\le 101 \\
+ 30 &\le y &\le 80
 \end{align*}
 $$
