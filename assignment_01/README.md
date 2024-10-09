@@ -29,7 +29,7 @@
         return y
     ```
     
-- `regression.py`에서 패키지는 `numpy`만 사용할 수 있습니다. 
+- `regression.py`에서 패키지는 `numpy`만 사용할 수 있습니다. 평가 시스템은 `python==3.11` 및 `numpy==2.1.2`를 사용합니다.
 
 - `train_data.csv`는 본 과제에서 제공하는 데이터(훈련 데이터)이며, 아래와 같이 $x$와 $y$에 대한 값을 포함합니다.
 
